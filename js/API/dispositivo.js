@@ -1,4 +1,4 @@
-//Dispositivo
+io//Dispositivo
 function disp(){
 	var arr = [];
 	arr['name'] = device.name;
